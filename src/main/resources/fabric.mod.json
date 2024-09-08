@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "argentine-culture",
+  "id": "argentine_culture",
   "version": "${version}",
   "name": "Argentine Culture",
   "description": "A few things about argentinian culture",
