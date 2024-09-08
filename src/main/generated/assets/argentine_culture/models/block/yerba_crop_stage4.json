@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "argentine_culture:block/yerba_crop_stage4"
+  }
+}

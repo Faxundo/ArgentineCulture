@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:leather"
+    },
+    "F": {
+      "tag": "minecraft:logs"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " X ",
+    "AFA",
+    " A "
+  ],
+  "result": {
+    "count": 1,
+    "id": "argentine_culture:mate"
+  }
+}

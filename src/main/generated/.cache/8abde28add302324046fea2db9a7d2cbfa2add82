@@ -1,0 +1,11 @@
+// 1.21	2024-09-06T17:14:04.2528889	Argentine Culture/Model Definitions
+de79e34f989cc7bdae3a583d2ea9cc4978676224 assets\argentine_culture\models\item\yerba_seed.json
+8df8bb9735872c00b6dd7311936e25a88c987bde assets\argentine_culture\models\block\yerba_crop_stage4.json
+4efa8a46839d3c608b463f7a186ebcd610ac4609 assets\argentine_culture\blockstates\yerba_crop.json
+d9a64937b0bf822cf0ed22ddd51bfa865084dd80 assets\argentine_culture\models\item\icon.json
+9113589b6f6211ae5d90379f86c1717dbabdea0b assets\argentine_culture\models\block\yerba_crop_stage2.json
+45005ddc9f0c3994d8ab5675bde22cbe770311c2 assets\argentine_culture\models\block\yerba_crop_stage1.json
+43ac0bde62b5d03a8cc85973b720ba43342d050a assets\argentine_culture\models\block\yerba_crop_stage0.json
+a3b0db9f61e2cce33f766a407764bafc0b3e2d3d assets\argentine_culture\models\item\mate.json
+3e27b5357c346d51fbfb151750c86e0f592fbfba assets\argentine_culture\models\block\yerba_crop_stage3.json
+954a332bb928d214a9a413f9e91263108ca20d97 assets\argentine_culture\models\item\yerba.json

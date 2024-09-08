@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "argentine-culture",
+  "version": "${version}",
+  "name": "Argentine Culture",
+  "description": "A few things about argentinian culture",
+  "authors": [
+    "Faxundo"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "MIT",
+  "icon": "assets/argentine_culture/textures/item/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "github.faxundo.argentina.ArgentineCulture"
+    ],
+    "client": [
+      "github.faxundo.argentina.ArgentineCultureClient"
+    ],
+    "fabric-datagen": [
+      "github.faxundo.argentina.ArgentineCultureDataGenerator"
+    ]
+  },
+  "mixins": [
+    "argentine-culture.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.4",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
